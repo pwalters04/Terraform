@@ -28,8 +28,9 @@ jobs:
         - run: yarn install
 
         - save_cache:
-              path:
+              paths:
                 -  node_modules
+                - Terraform/node_modules
               key: v1-depenxencies-{{ checksum "package.json"}}
           
         #run test!
