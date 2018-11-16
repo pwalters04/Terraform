@@ -1,0 +1,21 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "First Pipeline",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwalters04/Terraform.git"
+  },
+  "author": "Paris Walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwalters04/Terraform/issues"
+  },
+  "homepage": "https://github.com/pwalters04/Terraform#readme"
+}
